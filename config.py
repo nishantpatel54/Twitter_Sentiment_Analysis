@@ -1,0 +1,4 @@
+api_key="2t41r5I6zcrxK2BYnmC3gC3lA"
+api_secret_key="FdEUge2iFoTAyiMvx7FDuTJGfCPbujdWIWjSQhVBueA5IG1meP"
+access_token="1310721933038755842-7FflA1g2TnYx6MOQEucLRAfUSIUhnl"
+access_secret_token="BHOQ95w4EThb4OG4ng5XVvk162t9QSfm4PEA0hO94wXzw"
